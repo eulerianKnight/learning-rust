@@ -8,7 +8,6 @@
 //! # Panics:
 //! The `read_stdin` function will panic if it fails to read a line from stdin.
 
-
 use std::io::{BufRead, BufReader};
 
 /// This function reads a line from stdin and returns it as a String.
